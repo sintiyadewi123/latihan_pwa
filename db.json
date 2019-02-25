@@ -1,6 +1,5 @@
 {
-  "mahasiswa" :
-[{
+  "mahasiswa" : [{
   "id": 1,
   "name": "Corrie",
   "gender": "Male"
