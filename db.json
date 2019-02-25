@@ -1,3 +1,5 @@
+{
+  "mahasiswa" :
 [{
   "id": 1,
   "name": "Corrie",
@@ -399,3 +401,4 @@
   "name": "Tessa",
   "gender": "Female"
 }]
+}
